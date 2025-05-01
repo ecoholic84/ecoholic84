@@ -1,15 +1,42 @@
-# Akash A
-### Software Developer
+# Akash A | Full Stack Developer
 
-⤷ A technology enthusiast with a passion for web development, especially backend.
+![Profile Banner](https://img.shields.io/badge/Django-Developer-brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ecoholic)
+[![Portfolio](https://img.shields.io/badge/Website-ecoholic.dev-orange)](https://ecoholic.dev)
+[![Email](https://img.shields.io/badge/Email-akashanil084%40gmail.com-red)](mailto:akashanil084@gmail.com)
 
- <a aligh="left" href="https://ecoholic.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:ecoholic@duck.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/ecoholic84" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/ecoholic84" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+## 👨‍💻 About Me
 
-⚐ Based in Kerala, India
+I'm a passionate full-stack developer with a focus on Python Django development. Based in Kochi, Kerala, I'm currently pursuing my Bachelor's in Computer Applications while gaining hands-on experience through internships. I specialize in building web applications with clean architecture and optimized database design.
 
-ϟ Currently Learning the fundamentals
+## 🛠️ Skills
 
-ϟ Recently Started my Bachelor's Degree
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
- ## Skills
-   <a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" /></a>      
+### Web Technologies
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📫 Contact
+
+- Email: akashanil084@gmail.com
+- Location: Kochi, Kerala, India
+- LinkedIn: [linkedin.com/in/ecoholic](https://linkedin.com/in/ecoholic)
+- Website: [ecoholic.dev](https://ecoholic.dev)
+- GitHub: [github.com/ecoholic84](https://github.com/ecoholic84)
+
+---
+
+*Feel free to connect with me for collaborations or opportunities!*
