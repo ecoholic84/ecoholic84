@@ -1,13 +1,13 @@
 # Akash A | Full Stack Developer
 
-![Profile Banner](https://img.shields.io/badge/Django-Developer-brightgreen)
+![Profile Banner](https://img.shields.io/badge/Django-Developer-darkgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ecoholic)
-[![Portfolio](https://img.shields.io/badge/Website-ecoholic.dev-orange)](https://ecoholic.dev)
-[![Email](https://img.shields.io/badge/Email-akashanil084%40gmail.com-red)](mailto:akashanil084@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-akashanil.dev-purple)](https://akashanil.dev)
+[![Email](https://img.shields.io/badge/Email-hi@akashanil.dev-darkred)](mailto:hi@akashanil.dev)
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer with a focus on Python Django development. Based in Kochi, Kerala, I'm currently pursuing my Bachelor's in Computer Applications while gaining hands-on experience through internships. I specialize in building web applications with clean architecture and optimized database design.
+I'm a passionate full-stack developer with a focus on Python Django development. Based in Kochi, Kerala, I'm currently pursuing my Masters's in Computer Applications while gaining hands-on experience through internships. I specialize in building web applications with clean architecture and optimized database design.
 
 ## 🛠️ Skills
 
