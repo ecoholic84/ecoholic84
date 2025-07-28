@@ -34,7 +34,7 @@ I'm a passionate full-stack developer with a focus on Python Django development.
 - Email: hi@akashanil.dev
 - Location: Kochi, Kerala, India
 - LinkedIn: [linkedin.com/in/ecoholic](https://linkedin.com/in/ecoholic)
-- Website: [ecoholic.dev](https://akashanil.dev)
+- Website: [akashanil.dev](https://akashanil.dev)
 - GitHub: [github.com/ecoholic84](https://github.com/ecoholic84)
 
 ---
